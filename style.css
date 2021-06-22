@@ -13,3 +13,18 @@ h1{
 #transaction-area{
     display: none;
 }
+.status{
+    margin:0 20px;
+    padding:20px;
+    color: white;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
