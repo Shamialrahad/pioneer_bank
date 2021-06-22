@@ -1,9 +1,15 @@
 body{
     padding: 100px;
 }
+h1{
+    text-align: center;
+}
 .submit-area{
     margin-top:50px;
     padding: 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+    display: none;
 }
